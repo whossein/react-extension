@@ -1,0 +1,16 @@
+{
+  "name": "react-extension",
+  "version": "1.0.0",
+  "description": "Chrome extension in React!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "chrome",
+    "extension"
+  ],
+  "author": "Hossein Aghatabar",
+  "license": "ISC"
+}
